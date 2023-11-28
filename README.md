@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently working on gust loading alleviation through active flow control techniques 🌊
+I'm also working on estimation and learning techniques in the aerospace domain 🚀
+
 <!--
 **alisez1/alisez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
